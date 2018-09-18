@@ -1,9 +1,173 @@
 {
-  "users": [
-    {
-      "first-name": "deji",
-      "last-name": "adesoga",
-      "DOB": "may Eight"
+  "team1": {
+    "teamName": "Everton",
+    "players": {
+      "lineups": [
+        {
+          "playerNumber": "22",
+          "playerName": "Maarten Stekelenburg"
+        },
+        {
+          "playerNumber": "23",
+          "playerName": "Seamus Coleman"
+        },
+        {
+          "playerNumber": "3",
+          "playerName": "Leighton Baines"
+        },
+        {
+          "playerNumber": "17",
+          "playerName": "Idrissa Gueye"
+        },
+        {
+          "playerNumber": "5",
+          "playerName": "Ashley Williams"
+        },
+        {
+          "playerNumber": "25",
+          "playerName": "Ramiro Funes Mori"
+        },
+        {
+          "playerNumber": "14",
+          "playerName": "Yannick Bolasie"
+        },
+        {
+          "playerNumber": "18",
+          "playerName": "Gareth Barry",
+          "isCaptain": true
+        },
+        {
+          "playerNumber": "11",
+          "playerName": "Kevin Mirallas"
+        },
+        {
+          "playerNumber": "10",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "playerNumber": "15",
+          "playerName": "Tom Cleverley"
+        }
+      ],
+      "substitutes": [
+        {
+          "playerNumber": "1",
+          "playerName": "Joel Robles"
+        },
+        {
+          "playerNumber": "6",
+          "playerName": "Phil Jagielka"
+        },
+        {
+          "playerNumber": "7",
+          "playerName": "Gerard Deulofeu"
+        },
+        {
+          "playerNumber": "8",
+          "playerName": "Ross Barkley"
+        },
+        {
+          "playerNumber": "16",
+          "playerName": "James McCarthy"
+        },
+        {
+          "playerNumber": "19",
+          "playerName": "Enner Valencia"
+        },
+        {
+          "playerNumber": "30",
+          "playerName": "Mason Holgate"
+        },
+        {
+          "coach": "Ronald Koeman"
+        }
+      ]
     }
-  ]
+  },
+
+  "team2": {
+    "teamName": "Ever",
+    "players": {
+      "lineups": [
+        {
+          "playerNumber": "22",
+          "playerName": "Maarten Stekelenburg"
+        },
+        {
+          "playerNumber": "23",
+          "playerName": "Seamus Coleman"
+        },
+        {
+          "playerNumber": "3",
+          "playerName": "Leighton Baines"
+        },
+        {
+          "playerNumber": "17",
+          "playerName": "Idrissa Gueye"
+        },
+        {
+          "playerNumber": "5",
+          "playerName": "Ashley Williams"
+        },
+        {
+          "playerNumber": "25",
+          "playerName": "Ramiro Funes Mori"
+        },
+        {
+          "playerNumber": "14",
+          "playerName": "Yannick Bolasie"
+        },
+        {
+          "playerNumber": "18",
+          "playerName": "Gareth Barry",
+          "isCaptain": true
+        },
+        {
+          "playerNumber": "11",
+          "playerName": "Kevin Mirallas"
+        },
+        {
+          "playerNumber": "10",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "playerNumber": "15",
+          "playerName": "Tom Cleverley"
+        }
+      ],
+      "substitutes": [
+        {
+          "playerNumber": "1",
+          "playerName": "Joel Robles"
+        },
+        {
+          "playerNumber": "6",
+          "playerName": "Phil Jagielka"
+        },
+        {
+          "playerNumber": "7",
+          "playerName": "Gerard Deulofeu"
+        },
+        {
+          "playerNumber": "8",
+          "playerName": "Ross Barkley"
+        },
+        {
+          "playerNumber": "16",
+          "playerName": "James McCarthy"
+        },
+        {
+          "playerNumber": "19",
+          "playerName": "Enner Valencia"
+        },
+        {
+          "playerNumber": "30",
+          "playerName": "Mason Holgate"
+        },
+        {
+          "coach": "Ronald Koeman"
+        }
+      ]
+    }
+  }
 }
